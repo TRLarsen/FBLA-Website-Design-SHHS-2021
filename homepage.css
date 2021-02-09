@@ -1,6 +1,6 @@
 .header {
     height: 200px;
-    background-color: greenyellow;
+    background-color: #fff2d3ff;
     display: flex;
     justify-content: space-evenly;
     flex-direction: column;
@@ -19,7 +19,7 @@ h1 {
 
 .links > .homeLink:hover {
     transition: .5s;
-    box-shadow: 5px 10px #888888;
+    box-shadow: 3px 5px #888888;
 }
 
 .links > .aboutLink:hover {
@@ -55,6 +55,6 @@ h1 {
 }
 
 .imageButtons button {
-    background-color: yellowgreen;
+    background-color: #fff2d3ff;
 }
 

@@ -14,3 +14,5 @@ function showDivs(n) {
   }
   x[slideIndex-1].style.display = "block";
 }
+
+setTimeout(() => {  document.getElementById("homePhotoRight").click(); }, .0000000000000000000000001);
